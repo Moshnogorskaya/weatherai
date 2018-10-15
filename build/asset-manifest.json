@@ -1,0 +1,14 @@
+{
+  "main.css": "/weatherai/static/css/main.59e84383.chunk.css",
+  "main.js": "/weatherai/static/js/main.e4858311.chunk.js",
+  "main.js.map": "/weatherai/static/js/main.e4858311.chunk.js.map",
+  "static/js/1.6105a37c.chunk.js": "/weatherai/static/js/1.6105a37c.chunk.js",
+  "static/js/1.6105a37c.chunk.js.map": "/weatherai/static/js/1.6105a37c.chunk.js.map",
+  "runtime~main.js": "/weatherai/static/js/runtime~main.ca55e6a9.js",
+  "runtime~main.js.map": "/weatherai/static/js/runtime~main.ca55e6a9.js.map",
+  "static/media/logo.svg": "/weatherai/static/media/logo.5d5d9eef.svg",
+  "static/css/main.59e84383.chunk.css.map": "/weatherai/static/css/main.59e84383.chunk.css.map",
+  "index.html": "/weatherai/index.html",
+  "precache-manifest.27b7133e2114ca9221189544647a0083.js": "/weatherai/precache-manifest.27b7133e2114ca9221189544647a0083.js",
+  "service-worker.js": "/weatherai/service-worker.js"
+}
